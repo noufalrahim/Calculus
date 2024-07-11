@@ -6,7 +6,6 @@
 - [Usage](#Usage)
 - [Images](#Images)
 - [Contact Information](#contact-information)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation
    ```sh
